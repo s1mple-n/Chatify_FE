@@ -1,0 +1,21 @@
+.container-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+/* .border-divider {
+  border-bottom: 1px solid rgb(234, 234, 234);
+  width: 10%;
+} */
+
+.content-divider {
+  /* color: rgb(78, 78, 78); */
+  color:white ;
+  border-radius: 20px;
+  background-color:   #a1a1a1;
+  padding: 4px 15px 4px 15px;
+  margin: 0 5px;
+  font-size: 14px;
+}

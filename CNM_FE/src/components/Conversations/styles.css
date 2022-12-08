@@ -1,0 +1,41 @@
+
+
+.conversation-sidebar__nav {
+    padding: 10px 0px;
+    height: 100%;
+}
+
+.conversation-sidebar__nav-add {
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.conversation-sidebar__nav-add:hover {
+    background-color: aliceblue;
+}
+
+.conversation-sidebar__nav-add svg{
+    color: blue;
+}
+
+.conversation-sidebar__nav-item {
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.conversation-sidebar__nav-item:hover {
+    background-color: aliceblue;
+}
+
+.conversation-sidebar__nav-item img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}

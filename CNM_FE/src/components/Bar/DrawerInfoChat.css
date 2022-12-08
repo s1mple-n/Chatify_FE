@@ -1,0 +1,12 @@
+.list {
+  display: "flex";
+  flex-direction: "row";
+  padding: 0;
+}
+
+.MuiPaper-root .MuiDrawer-paper {
+  z-index: 10 !important;
+
+  max-width: 24.5% !important;
+  min-width: 24.5% !important;
+}
